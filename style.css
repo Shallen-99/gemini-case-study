@@ -18,6 +18,12 @@ body {
     justify-content: center;
     align-items: center;
 }
+.sub-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 #password {
     border: solid white;
@@ -46,3 +52,22 @@ body {
     border-radius: 10px;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.logos {
+   /* width: 100vw;
+    height: 100vh; */
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    /* margin: 0 15px 10px 0; */
+}
+
+img {
+    margin: 25px;
+}
