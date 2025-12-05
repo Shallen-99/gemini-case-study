@@ -1,0 +1,29 @@
+body {
+    background-color: #2148c0;
+    /* display: flex; */
+}
+
+#login {
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#password {
+    margin: 16px;
+}
+
+#username {
+
+}
+
